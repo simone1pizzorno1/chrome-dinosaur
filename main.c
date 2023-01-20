@@ -1,5 +1,5 @@
 // build with "gcc main.c game.c menu.c appearance.c -lncurses -o dino.exe"
-
+//ciao
 #include <ncurses.h>
 #include <stdio.h>
 #include "menu.h"
